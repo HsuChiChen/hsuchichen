@@ -1,9 +1,10 @@
 ## Who am I
-Hi, I am Chen, Hsu-Chi(chinese name:陳旭祺).I'm a junior student majoring in electronics engineering at National Cheng Kung University. (NCKU), Taiwan.
+Hi, I am Hsu-Chi, Chen. (chinese name : 陳旭祺) <br>
+I'm a junior student majoring in electronics engineering at National Cheng Kung University. (NCKU), Taiwan.
 
 
 ## About me
-### 部落格
+### Web
 - [Website](https://hsuchichen.github.io/)
 - [Blog on HackMD](https://hackmd.io/@HsuChiChen/content)
 

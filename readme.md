@@ -1,14 +1,28 @@
 ![](logo.gif)
 
 ## Who am I
-Hi, I am Hsu-Chi, Chen. (chinese name : 陳旭祺) <br>
-I'm a junior student majoring in electronics engineering at National Cheng Kung University (NCKU), Taiwan.
+### Personal information
+- Name : Hsu-Chi, Chen
+- Day of birth : Jan. 2001
+
+### Educations
+- Jul. 2019 ~ Jul. 2020, freshman, Electrical Engineering , National Chung Hsing University, Taiwan.
+- Jul. 2020 ~ (Jul. 2023), B.S. Electrical Engineering, National Cheng Kung University, Taiwan
+
+## 自我介紹
+### 個人資料
+- 姓名 : 陳旭祺
+- 生日 : 西元2001年1月
+
+### 教育背景
+- 2019/08 ~ 2020/08 中興大學電機系大一
+- 2020/08 ~ (2023/08) 成功大學電機系學士
 
 <br>
 
 ## About me
 ### Web
-- [Website](https://hsuchichen.github.io/)
+- ~~[Website](https://hsuchichen.github.io/)~~ (to be build up)
 - [Blog on HackMD](https://hackmd.io/@HsuChiChen/content)
 
 ### Social Media
@@ -20,7 +34,7 @@ I'm a junior student majoring in electronics engineering at National Cheng Kung 
 - [GitHub](https://github.com/HsuChiChen)
 
 ### Multimedia Works
-- [Youtube](https://www.youtube.com/channel/UCs0LPL6-zqSfE8a5llk24bg)
+- [Youtube](https://www.youtube.com/@HsuChiChen)
 - [Bilibili](https://space.bilibili.com/1447797468/video)
 - [Dcard](https://www.dcard.tw/@chenneil90121)
 - [Imgur](https://imgur.com/user/HsuChiChen/posts)

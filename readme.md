@@ -7,7 +7,11 @@
 
 ### Educations
 - Jul. 2019 ~ Jul. 2020, freshman, Electrical Engineering , National Chung Hsing University, Taiwan.
-- Jul. 2020 ~ (Jul. 2023), B.S. Electrical Engineering, National Cheng Kung University, Taiwan
+- Jul. 2020 ~ Jul. 2023, B.S. Electrical Engineering, National Cheng Kung University, Taiwan
+- Jul. 2023 ~ now M.S. Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
+	1. Advisor : Kun-Chih, Chen
+
+---
 
 ## 自我介紹
 ### 個人資料
@@ -16,7 +20,9 @@
 
 ### 教育背景
 - 2019/08 ~ 2020/08 中興大學電機系大一
-- 2020/08 ~ (2023/08) 成功大學電機系學士
+- 2020/08 ~ 2023/08 成功大學電機系學士
+- 2023/08 ~ now 交大電子所(數位ICS) 碩士
+	1. 指導教授 : 陳坤志
 
 <br>
 
@@ -32,6 +38,9 @@
 
 ### Coding
 - [GitHub](https://github.com/HsuChiChen)
+
+### Sports
+- [Strava](https://www.strava.com/athletes/121093157)
 
 ### Multimedia Works
 - [Youtube](https://www.youtube.com/@HsuChiChen)
